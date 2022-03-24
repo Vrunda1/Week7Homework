@@ -40,7 +40,7 @@ public class Program7 {
             commision = sa * 0.10f;
         } else if (sa >= 10000) {
             commision = sa * 0.05f;
-        } else if (sa < 20000) {
+        } else if (sa < 10000) {
             commision = sa * 0.02f;
 
         } else

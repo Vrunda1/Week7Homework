@@ -15,7 +15,7 @@ public class Program2 {
     //instance mehtod with return type without any parameter
     public int leapyear() {
         int year;
-        boolean b;
+        //boolean b;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter any year:");
         int y = sc.nextInt();
